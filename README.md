@@ -1,43 +1,39 @@
-Hello there 👋
+# Hello there 👋
 
 I'm Parminder.
 
-💼 My work style
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-    ⏰ Times
-        I work Monday - Friday.
-        
-    ✉️ Communication
-        - Be honest, i cant stand bullshitters.
-        
-👨‍💻 Work history
+I like Python and a Senior Data Scientist at the MOJ.
 
-    ⚙️ Senior Data Scientist @ at the [Ministry of Justice[(https://www.gov.uk/government/organisations/ministry-of-justice).
+## 💼 My work style
 
+### ⏰ Times
+- I work Monday-Friday
 
-💻 Technical Expertise:
-Languages:
+### 👥 Communication
+- Honesty - i cant stand bullshitters.
 
-    Python
-    Bash
+## 👨‍💻 Work history
+
+- ⚖️ Senior Data Scientist @ the [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice).
+- ⚖️ Senior Engineer @ the [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice).
+
+## 💻 Technical Expertise:
+
+## Languages:
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" height="20" style="vertical-align: middle;"> **Python**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Logo" width="20" height="20" style="vertical-align: middle;"> **Bash**
+
     
-Database Technologies:
+## Contact Information:
+- ✉️ Email: DM me.
+- LinkedIn: [@parminderthindal](https://www.linkedin.com/in/parminderthindal/)
 
-    RDBMS: PostgreSQL, Presto
-
-Cloud & Infrastructure:
-
-    AWS
-    Container orchestration - Docker
-    CI/CD pipeline design and implementation
-
-Contact Information:
-
-    Email: DM me.
-    LinkedIn: @parminderthindal
-
-IRL:
-    ???
-    ???
+## IRL:
+- ???
+- ???
     
-You can find my work here:
+## You can find my work here:
+- ...
+- ...
