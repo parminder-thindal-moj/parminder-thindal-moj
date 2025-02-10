@@ -1,16 +1,19 @@
 Hello there 👋
 
-Principal Engineer at ScaleFusion, specializing in Go microservices and distributed systems. Also serving as a Django CMS Fellow, contributing to the Django CMS Foundation's core development and community initiatives.
-Technical Expertise
+Senior Data Scientst @ Ministry of Justice.
+
+Interesting in all things Python in Data Science or Engineering.
+
+Technical Expertise:
 Languages:
 
     Python, Bash
     
-Database Technologies
+Database Technologies:
 
     RDBMS: PostgreSQL, Presto
 
-Cloud & Infrastructure
+Cloud & Infrastructure:
 
     AWS
     Container orchestration - Docker
