@@ -1,13 +1,25 @@
 Hello there 👋
 
-Senior Data Scientst @ Ministry of Justice.
+I'm Parminder.
 
-Interested in all things Python in Data Science or Engineering.
+💼 My work style
 
-Technical Expertise:
+    ⏰ Times
+        I work Monday - Friday.
+        
+    ✉️ Communication
+        - Be honest, i cant stand bullshitters.
+        
+👨‍💻 Work history
+
+    ⚙️ Senior Data Scientist @ at the [Ministry of Justice[(https://www.gov.uk/government/organisations/ministry-of-justice).
+
+
+💻 Technical Expertise:
 Languages:
 
-    Python, Bash
+    Python
+    Bash
     
 Database Technologies:
 
@@ -21,7 +33,11 @@ Cloud & Infrastructure:
 
 Contact Information:
 
-    Email: parminderthindal@gmail.com
+    Email: DM me.
     LinkedIn: @parminderthindal
 
+IRL:
+    ???
+    ???
+    
 You can find my work here:
