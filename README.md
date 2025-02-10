@@ -4,7 +4,7 @@ I'm Parminder.
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-I like Python and a Senior Data Scientist at the MOJ.
+I like Python and i'm a Senior Data Scientist at the MOJ.
 
 ## 💼 My work style
 
