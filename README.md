@@ -2,7 +2,7 @@ Hello there 👋
 
 Senior Data Scientst @ Ministry of Justice.
 
-Interesting in all things Python in Data Science or Engineering.
+Interested in all things Python in Data Science or Engineering.
 
 Technical Expertise:
 Languages:
