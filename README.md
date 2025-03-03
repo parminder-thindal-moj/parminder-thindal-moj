@@ -16,6 +16,12 @@ I like Python and i'm a Senior Data Scientist at the MOJ.
 ### 👥 Communication
 - Honesty - i cant stand bullshitters.
 
+## 💻 Technical Expertise:
+
+### Programming Languages:
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" height="20" style="vertical-align: middle;"> **Python**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Logo" width="20" height="20" style="vertical-align: middle;"> **Bash**
+
 ## 👨‍💻 Work history
 
 **Ministry of Justice** | November 2021 - Present:
@@ -23,12 +29,6 @@ I like Python and i'm a Senior Data Scientist at the MOJ.
 - ⚖️ Senior Data Scientist | August 2024 - Present
 - ⚖️ Senior Data Engineer | October 2023 - August 2024
 - ⚖️ Senior Data Scientist | Novemeber 2021 - October 2023
-
-## 💻 Technical Expertise:
-
-### Programming Languages:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" height="20" style="vertical-align: middle;"> **Python**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Logo" width="20" height="20" style="vertical-align: middle;"> **Bash**
 
 ## Spoken Languages:
 I can speak two languages fluently:
