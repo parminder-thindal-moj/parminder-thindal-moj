@@ -8,8 +8,6 @@ I like Python and i'm a Senior Data Scientist at the MOJ.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parminder-thindal-moj&layout=compact&langs_count=6&theme=cobalt)](https://github.com/buresdv)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=parminder-thindal-moj&show_icons=true&theme=cobalt)
-
 ## 💼 My work style
 
 ### ⏰ Times
