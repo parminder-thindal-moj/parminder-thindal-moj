@@ -6,7 +6,9 @@ I'm Parminder.
 
 I like Python and i'm a Senior Data Scientist at the MOJ.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parminder-thindal-moj&layout=compact&langs_count=6&theme=cobalt)](https://github.com/buresdv)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parminder-thindal-moj&layout=compact&langs_count=6&theme=cobalt)](https://github.com/buresdv)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=parminder-thindal-moj&show_icons=true&theme=cobalt)
 
 ## 💼 My work style
 
@@ -23,11 +25,21 @@ I like Python and i'm a Senior Data Scientist at the MOJ.
 
 ## 💻 Technical Expertise:
 
-## Languages:
+## Programming Languages:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" height="20" style="vertical-align: middle;"> **Python**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash Logo" width="20" height="20" style="vertical-align: middle;"> **Bash**
 
-    
+
+## Spoken Languages:
+- I can speak two languages fluently.
+- 🇬🇧 English
+- 🪯 Punjabi
+
+Languages to learn:
+- 🇯🇵 Japanese
+- 🇩🇪 German
+- 🇮🇹 Italian
+
 ## Contact Information:
 - ✉️ Email: DM me.
 - LinkedIn: [@parminderthindal](https://www.linkedin.com/in/parminderthindal/)
