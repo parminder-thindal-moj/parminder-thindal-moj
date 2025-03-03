@@ -6,6 +6,8 @@ I'm Parminder.
 
 I like Python and i'm a Senior Data Scientist at the MOJ.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parminder-thindal-moj&layout=compact&langs_count=6&theme=cobalt)](https://github.com/buresdv)
+
 ## 💼 My work style
 
 ### ⏰ Times
