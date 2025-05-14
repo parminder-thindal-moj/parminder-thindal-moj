@@ -14,7 +14,7 @@ I like Python and i'm a Senior Data Scientist at the MOJ.
 - I work Monday-Friday
 
 ### 👥 Communication
-- Honesty - i cant stand bullshitters.
+- Honesty - I can't stand bullshitters.
 
 ## 💻 Technical Expertise:
 
